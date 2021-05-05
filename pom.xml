@@ -98,13 +98,13 @@
 			<artifactId>jcodec</artifactId>
 			<version>0.2.3</version>
 		</dependency>
-		<dependency>
-			<groupId>sun.plugin</groupId>
-			<artifactId>plugin</artifactId>
-			<version>1.6</version>
-			<scope>system</scope>
-			<systemPath>${java.home}/lib/plugin.jar</systemPath>
-		</dependency>
+<!--		<dependency>-->
+<!--			<groupId>sun.plugin</groupId>-->
+<!--			<artifactId>plugin</artifactId>-->
+<!--			<version>1.6</version>-->
+<!--			<scope>system</scope>-->
+<!--			<systemPath>${java.home}/lib/plugin.jar</systemPath>-->
+<!--		</dependency>-->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
